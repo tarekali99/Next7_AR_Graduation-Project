@@ -31,11 +31,8 @@ Screenshots will be added inline with technical explanations to reflect:
 👨‍💼 Project Team
 This project was developed by a team of five Oracle trainees as part of the Accounts Receivable graduation project:
 - Tarek Ali – Team Leader
-- Mohamed Ahmed – Accounting
 - Tarek Hany – Accounting
-- Ziad Mamdouh – Engineering
-- Ahmed Abdelaziz Emam – Engineering
-🧠 Key Learning Outcomes
+  🧠 Key Learning Outcomes
 - Real-time understanding of AR workflows
 - Technical tracing of invoice entries to GL
 - Functional application of AutoAccounting logic
