@@ -29,7 +29,7 @@ Screenshots will be added inline with technical explanations to reflect:
 - Visit /screenshots to explore annotated images tied to specific training steps
 - All files are organized by segment (Part 1–4)
 👨‍💼 Project Team
-This project was developed by a team of five Oracle trainees as part of the Accounts Receivable graduation project:
+This project was developed by a team of 2 Oracle trainees as part of the Accounts Receivable graduation project:
 - Tarek Ali – Team Leader
 - Tarek Hany – Accounting
   🧠 Key Learning Outcomes
